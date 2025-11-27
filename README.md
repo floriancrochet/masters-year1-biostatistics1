@@ -1,6 +1,8 @@
 # Handling Missing Data in Student Budget Analysis  
 *A reproducible R project for the treatment and analysis of missing data in student survey datasets.*
 
+[**Report (PDF – online)**](https://drive.google.com/file/d/157mImsiVVkczX_KFHl7JPwGWtAMXXNEM/view?usp=drive_link)
+
 ---
 
 ## 📘 Overview
